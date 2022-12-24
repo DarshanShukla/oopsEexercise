@@ -1,0 +1,23 @@
+WARNING - 2022-12-11 17:14:07,193 - This will logged to the file public.log
+WARNING - 2022-12-11 17:17:42,617 - This will logged to the file public.log
+WARNING - 2022-12-11 17:17:51,633 - This will logged to the file public.log
+WARNING - 2022-12-11 17:40:13,303 - This will logged to the file public.log
+WARNING - 2022-12-11 17:46:59,864 - This will logged to the file public.log
+WARNING - 2022-12-11 17:49:54,811 - This will logged to the file public.log
+WARNING - 2022-12-11 17:50:33,433 - This will logged to the file public.log
+WARNING - 2022-12-11 17:50:52,947 - This will logged to the file public.log
+WARNING - 2022-12-12 02:03:01,687 - This will logged to the file public.log
+INFO - 2022-12-12 02:03:01,688 - trying to add students details
+WARNING - 2022-12-12 02:26:36,424 - This will logged to the file public.log
+INFO - 2022-12-12 02:26:36,424 - trying to add students details
+WARNING - 2022-12-12 02:47:35,500 - This will logged to the file public.log
+INFO - 2022-12-12 02:47:35,500 - trying to add students details
+INFO - 2022-12-12 02:47:35,501 - accessing protected data members of super class
+WARNING - 2022-12-12 02:48:46,531 - This will logged to the file public.log
+INFO - 2022-12-12 02:48:46,531 - trying to add students details
+INFO - 2022-12-12 02:48:46,533 - accessing protected data members of super class
+WARNING - 2022-12-12 13:05:02,231 - This will logged to the file public.log
+WARNING - 2022-12-12 13:05:55,090 - This will logged to the file public.log
+WARNING - 2022-12-12 13:06:05,965 - This will logged to the file public.log
+WARNING - 2022-12-12 13:06:39,113 - This will logged to the file public.log
+WARNING - 2022-12-12 13:06:59,912 - This will logged to the file public.log

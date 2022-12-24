@@ -1,0 +1,12 @@
+WARNING - 2022-12-11 17:14:31,621 - This will logged to a file
+INFO - 2022-12-11 17:14:31,622 - public class 1st example
+INFO - 2022-12-11 17:14:31,623 - public data members
+INFO - 2022-12-11 17:14:31,623 - public member function
+INFO - 2022-12-11 17:14:31,624 - NAMES OF COLORS AND COLOR PRODUCTS
+INFO - 2022-12-11 17:14:31,624 - DISPLAY COLORS
+WARNING - 2022-12-24 12:20:31,608 - This will logged to a file
+INFO - 2022-12-24 12:20:31,611 - public class 1st example
+INFO - 2022-12-24 12:20:31,612 - public data members
+INFO - 2022-12-24 12:20:31,614 - public member function
+INFO - 2022-12-24 12:20:31,615 - NAMES OF COLORS AND COLOR PRODUCTS
+INFO - 2022-12-24 12:20:31,616 - DISPLAY COLORS
